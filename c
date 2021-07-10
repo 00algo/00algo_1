@@ -1,6 +1,6 @@
 include<stdio.h>
 int main(){
 
-  printf("gssh");
+  printf("집가고싶다");
   
 }
